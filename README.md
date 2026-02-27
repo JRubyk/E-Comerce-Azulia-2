@@ -80,7 +80,7 @@ azulia_ecommerce/
 ├── excepciones.py : excepciones personalizadas del sistema.
 ├── catalogo.txt      # (opcional) se crea/actualiza al guardar catálogo
 └──
-
+```
 ## ▶️ Cómo ejecutar
  - Abre una terminal y entra a la carpeta del proyecto:
  - cd azulia_ecommerce
@@ -92,6 +92,7 @@ azulia_ecommerce/
 - catalogo.txt (opcional)
 
 Se guarda en formato simple con separador ;:
+```
 ==================================================
 id;nombre;categoria;precio
 1;Aros Luna;aros;7990
@@ -111,7 +112,7 @@ Cliente: Jeimy
 - Aros Luna (aros) x2 @ $7990 = $15980
 TOTAL: $15980
 ==================================================
-
+```
 ✅ Requisitos cumplidos (según pauta)
 - App ejecutable por consola en Python.
 - Roles ADMIN / CLIENTE con menús claros.
