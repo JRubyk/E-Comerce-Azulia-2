@@ -71,6 +71,7 @@ azulia_ecommerce/
 
 
 ## Descripción de archivos
+```
 ├── main.py        : punto de entrada de la aplicación.
 ├── app.py         : app.py: clase TiendaApp que coordina menús y flujo general.
 ├── producto.py    : clase Producto + conversión a/desde línea de archivo.
