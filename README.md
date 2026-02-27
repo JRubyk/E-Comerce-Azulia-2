@@ -67,7 +67,7 @@ azulia_ecommerce/
 ├── excepciones.py
 ├── catalogo.txt      # (opcional) se crea/actualiza al guardar catálogo
 └── ordenes.txt       # (obligatorio) se crea al confirmar compras
-
+```
 
 
 ## Descripción de archivos
